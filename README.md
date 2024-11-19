@@ -1,2 +1,2 @@
 # Demo
-Demonstration for SEN1211
+Demonstration for SEN1211. It will demonstrate git, testing and debugging.
